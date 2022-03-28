@@ -5,3 +5,13 @@ h1 {
 .required {
   color: #ff0000;
 }
+
+.form-control {
+  border-radius: 0.5rem;
+}
+
+.form-select {
+  border-radius: 0.5rem;
+}
+
+/*Step Form*/
